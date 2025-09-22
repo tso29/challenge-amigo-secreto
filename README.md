@@ -7,4 +7,4 @@ Juego de "Amigo Secreto" hecho con **HTML, CSS y Javascript**.
 * Mostrar los nombres ingresados.
 * Sortear un amigo secreto al azar. 
 
-- `Desarrollado por`: Tayra Soto
+`Desarrollado por`: Tayra Soto
